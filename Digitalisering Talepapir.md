@@ -15,8 +15,9 @@ Sociale medier udnyttes til at påvirke den offentlige mening og viden, og dermed
 Vi er nødt til få styr på hvordan Informations teknologi og data bliver brugt, før teknologien kommer ud af kontrol.
 EU er på vej med en ’Artificial Intelligence Act’ og Transparency International har forslag til bekæmpelse af korruption i digitalisering.
 
-* Åbenhed
-* Deling af magten
+### Åbenhed
+
+### Deling af magten
 
 
 ## Digitalisering
@@ -28,21 +29,22 @@ Det økonomiske pres kræver, at arbede skal leveres billigere, hurtigere og mere 
 
 Informations teknologi (IT) bliver stadig mere avanceret og billigt. Værktøjer som maskin læring og store mængder detaljerede data digitaliserer og automatiserer arbejde og beslutninger, der tidligere blev udført af mennesker.
 
-Teknologien
-Algoritmer
-Algoritmer der trænes, ikke programmeres
-Predictive, mønster genkendelse
-Rule engines
-General Language Models ChatGPT
+- Teknologien
+- Algoritmer
+- Algoritmer der trænes, ikke programmeres
+- Predictive, mønster genkendelse
+- Rule engines
+- General Language Models ChatGPT
 
-Data
-Data mængder og detaljeringsgrad
+- Data
+-- Data mængder og detaljeringsgrad
 
-IT udvikling
-Skal ske hurtigt og billigt
-IT udviklere, devops, dataops
-Manglende indsigt i forretningen og processerne
-Hit and miss
+- IT udvikling
+-- Skal ske hurtigt og billigt
+-- IT udviklere, devops, dataops
+-- Manglende indsigt i forretningen og processerne
+-- Hit and miss
+
 
 ## Service leverandører
 
@@ -53,37 +55,38 @@ Teknologien kan bruges til nytte for alle, eller misbruges til en unfair gevinst
 
 ## Utilsigtede bivirkninger
 
-Bias
-Lav kvalitet
-Mismatch med forretnings behov
+- Bias
+- Lav kvalitet
+- Mismatch med forretnings behov
 
 
 # Betroet magt til egen vinding
 
-Hvem har en betroet magt
-Hvad er egen vinding
+- Hvem har en betroet magt
+- Hvad er egen vinding
 
 ## Bestikkelse
 
-* Af IT udviklerne
-* Af sagsbehandlerne
-* Af super brugerne
+- Af IT udviklerne
+- Af sagsbehandlerne
+- Af super brugerne
 
 ## Eksempler
 
-Lægerne og skannings billeder
-Sociale Medier traffik
+- Lægerne og skannings billeder
+- Sociale Medier traffik
 
 
-Transparency forslag
-Deling af magt
-Funktionsadskillelse
-IT kontrollerer IT
-Data
-Personfølsomme
-Skjulte registreringer, især sociale medier
-Forberedelse af Træningsdata
-Forberedelse af Transaktions data
+# Transparency forslag
+
+- Deling af magt
+- Funktionsadskillelse
+- IT kontrollerer IT
+- Data
+-- Personfølsomme
+-- Skjulte registreringer, især sociale medier
+-- Forberedelse af Træningsdata
+-- Forberedelse af Transaktions data
 
 
 
