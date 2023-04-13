@@ -15,6 +15,4 @@ Transparency International works for openess and agains misuese of entrusted pow
 Unintended effects like bias or even regular corruptoin are both hard to detect, and prevenetion builds on much the same openess, transparency, distribution of power and clear and enforced rules. 
 And not the least, to watch out for and work with the weaknesses in the digital systems.
 
-## Lars Wriedt, Transparency Danmark, board member 2022-2024
-
-* Transparency International Danmark  C/O CBS  Dalgas Have 15, V.2.35 2000 Frederiksberg, Danmark. CVR-nr: 3199587 *
+## Lars Wriedt, April 2023
