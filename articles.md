@@ -14,7 +14,9 @@ Yes - it certainly does already!
 
 # Articles
 
-[Digitalization](https://lwriedt.github.io/digital)
+What is the part of humans in Artificial Intelligence [Human factor] (https://lwriedt.github.io/human_factor)
+
+What does 'digitalization' mean? [Digitalization](https://lwriedt.github.io/digital)
 
 
 ## About me
@@ -22,5 +24,4 @@ Yes - it certainly does already!
 [Lars Wriedt](https://lwriedt.github.io/aboutme)
 
 
-## Lars Wriedt, Denmark, 2023
-
+## (C) Lars Wriedt, April 2023
