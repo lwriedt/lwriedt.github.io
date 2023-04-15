@@ -14,7 +14,7 @@ Yes - it certainly does already!
 
 # Articles
 
-What is the part of humans in Artificial Intelligence [Human factor] (https://lwriedt.github.io/human_factor)
+What is the part of humans in Artificial Intelligence? [Human factor](https://lwriedt.github.io/human_factor)
 
 What does 'digitalization' mean? [Digitalization](https://lwriedt.github.io/digital)
 
