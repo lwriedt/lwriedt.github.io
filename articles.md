@@ -10,13 +10,13 @@ Algorithms and use of data becomes still more advanced and opaque.
 Too quick or slippy development of IT systems creates weaknesses.
 And we know, weak systems will be exployted.
 
-*Misuse of entrusted power for personal gain* - does this exist in digitalized systems? 
+**Misuse of entrusted power for personal gain** - does this exist in digitalized systems? 
 
 Yes - it certainly does already!
 
 # Articles
 
-What is *Artificial Intelligence* [Artificial Intelligence](https://lwriedt.github.io/AI)
+What is Artificial Intelligence? [Artificial Intelligence](https://lwriedt.github.io/AI)
 
 
 
@@ -29,9 +29,8 @@ What is the part of humans in Artificial Intelligence? [Human factor](https://lw
 What does 'digitalization' mean? [Digitalization](https://lwriedt.github.io/digital)
 
 
-## About me
+# About me
 
 [Lars Wriedt](https://lwriedt.github.io/aboutme)
-
 
 ## (C) Lars Wriedt, April 2023
