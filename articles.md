@@ -18,19 +18,20 @@ Yes - it certainly does already!
 
 What is Artificial Intelligence? [Artificial Intelligence](https://lwriedt.github.io/AI)
 
+How are AI influencing popular elections? [Election manipulation](https://lwriedt.github.io/Elections)
 
+---
 
 ## Planned articles
-
-How are AI influencing popular elections? [Election manipulation](https://lwriedt.github.io/elections)
 
 What is the part of humans in Artificial Intelligence? [Human factor](https://lwriedt.github.io/human_factor)
 
 What does 'digitalization' mean? [Digitalization](https://lwriedt.github.io/digital)
 
+---
 
 # About me
 
 [Lars Wriedt](https://lwriedt.github.io/aboutme)
 
-## (C) Lars Wriedt, April 2023
+## (C) Lars Wriedt, May 2023
