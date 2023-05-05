@@ -1,18 +1,28 @@
 # Digitalization of administration
 
-The market pressure for digitalization is everywhere. Timesaving, efficiency and hope of better quality and less errors makes investments in digital automation profitable.
+Digitalization is everywhere and growing.  Timesaving. Machines, office administration, websites, social media platforms - they are already or fast moving to digital features.
 
-But when systems take over situation awareness and makes decisions in stead of human beings, power moves as well, and we become dependent.
+The objectives are efficiency, better quality and less errors. Investments in digital automation are highly profitable.
+
+But when systems take over situational awareness and makes decisions in stead of human beings, power moves as well. Humans become dependent.
 
 Algorithms and use of data becomes still more advanced and opaque.
 Too quick or slippy development of IT systems creates weaknesses.
 And we know, weak systems will be exployted.
 
-Misuse of entrusted power for personal gain - does this exist in digitalized systems? 
+*Misuse of entrusted power for personal gain* - does this exist in digitalized systems? 
 
 Yes - it certainly does already!
 
 # Articles
+
+What is *Artificial Intelligence* [Artificial Intelligence](https://lwriedt.github.io/AI)
+
+
+
+## Planned articles
+
+How are AI influencing popular elections? [Election manipulation](https://lwriedt.github.io/elections)
 
 What is the part of humans in Artificial Intelligence? [Human factor](https://lwriedt.github.io/human_factor)
 
