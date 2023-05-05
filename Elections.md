@@ -1,4 +1,4 @@
-# Election Mamipulation
+# Election Manipulation
 
 In most countries, there seems to be a growing trend among the population to consume news and information from social media platforms. News and information moves from traditional media like print and tv, where content in liberal countries is somewhat vetted, to technology platforms where content is largely unregulated and news feed priority is influenced by both traffic as well as algorithms and user profiling.
 
@@ -12,6 +12,7 @@ It is becoming easier, cheaper and faster to create and distribute misinformatio
 
 Are they in-country players with a political agenda? Or are they external players like adversial countries or corporations?
 For example, Russia has vested interest in any elections in Ukraine, but also business lobbies like energy, food or tobacco may have an interest in certain election outcomes.
+
 
 ## Distribution
 
@@ -43,4 +44,4 @@ How are selv-regulation enforced?
 Are there any outside forces in play, like the coming EU AI Act or even GDPR or frameworks from entities like OECD?
 
 
-## (C) Lars Wriedt, May 2023
+**(C) Lars Wriedt, May 2023**
