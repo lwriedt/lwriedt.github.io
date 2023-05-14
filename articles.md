@@ -18,11 +18,13 @@ Yes - it certainly does already!
 
 What is Artificial Intelligence? [Artificial Intelligence](https://lwriedt.github.io/AI)
 
-How are AI influencing popular elections? [Election manipulation](https://lwriedt.github.io/Elections)
+Dangers of using AI for human decisions [AI Dangers](https://lwriedt.github.io/ChatGPT_Text_on_AI_Dangers)
 
 ---
 
 ## Planned articles
+
+How are AI influencing popular elections? [Election manipulation](https://lwriedt.github.io/Elections)
 
 What is the part of humans in Artificial Intelligence? [Human factor](https://lwriedt.github.io/human_factor)
 

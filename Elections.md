@@ -45,3 +45,7 @@ Are there any outside forces in play, like the coming EU AI Act or even GDPR or 
 
 
 **(C) Lars Wriedt, May 2023**
+
+
+
+
