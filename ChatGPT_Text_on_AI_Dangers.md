@@ -1,4 +1,4 @@
-£ Ladies and gentlemen,
+# Ladies and gentlemen,
 
 Artificial Intelligence (AI) is rapidly becoming more advanced and integrated into our daily lives, and while it has the potential to bring about many benefits, it also poses significant dangers, especially when it makes decisions that affect humans.
 
@@ -11,4 +11,4 @@ Finally, there is a risk that AI could eventually surpass human intelligence, le
 In conclusion, while AI has the potential to bring about many benefits, it's essential to recognize the dangers that come with AI making human decisions. We must be vigilant in ensuring that AI is developed and used in a responsible and ethical manner that prioritizes the well-being of individuals and society as a whole. Thank you.
 
 
-** Created by ChatGPT 14. Mau 2023 **
+** Created by ChatGPT 14. May 2023 **
