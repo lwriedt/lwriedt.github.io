@@ -1,6 +1,19 @@
 # Digitalization of administration
 
-Digital systems are one of the most important factors of, how modern life plays out. Artificial Intelligence is becoming pervasive in digital systems.''
+Digitalization is everywhere and growing.  Timesaving. Machines, office administration, websites, social media platforms - they are already or fast moving to digital features.
+
+The objectives are efficiency, better quality and less errors. Investments in digital automation are highly profitable.
+
+But when systems take over situational awareness and makes decisions instead of human beings, power moves as well. Humans become dependent.
+
+Algorithms and use of data becomes still more advanced and opaque.
+Too quick or slippy development of IT systems creates weaknesses.
+And we know, weak systems will be exployted.
+
+**Misuse of entrusted power for personal gain** - does this exist in digitalized systems? 
+
+Yes - it certainly does already!
+
 
 ## Examples
 
