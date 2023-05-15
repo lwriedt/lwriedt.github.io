@@ -25,48 +25,92 @@ As of today, we do not have any true AGI beings. The opinions of when that may h
 
 ![Machine Learning](AI_Definition-MachineLearning.jpg)
 
+One of the key techniques of AI systems is that the systems are *trained* and not *programmed*.
+
+No programmer has defined all the situations that a system needs to deal with, or the rules of action. This model is designed for *determanistic* programming and makes up the vast majority of the worlds IT systems.
+
+Machine Learning is *probabilistic* in that it idenfities a situation and responds based on statistical weighting, not using any fixed rules.
+
+A Machine Learning system is *trained*, not *programmed*. This requires large amounts of representitive training data, and data for verification afterwards that the training results in the desired behaviour.
+
+Systems based on probabilistic models are powerful because it can deal with unexpected or unknown input without any programmer figuring out in advance how the system should respond.
+It also means that it can be fifficult to understand exactly how an AI system arrives to a decison or action. There are no source code that documents the exact rule.
+
+There are several reasons that AI systems are now maturing.
+- Data can be collected, stored, managed and used in very large volumes and in a variety of formats from structured data to texts, pictures, audoe and video.
+- Computing power has grown exponentially and can drive fast execution of the large data volumes and complex algorithms.
+- Algorithms have matured in quality and features.
+- Development tools and processes has made it very easy (for trained IT people and also for all others) to setup and use AI systems.
 
 ### Deep Learning
 
+Deep Learning is a class of Machine Learning algorithms that uses Neural Networks. This mimics the human brain with neurons and synapses and can be setup with very large, multi-layer structures.
+
+Neural Networks are the algorithms behind the newer generative tools like chatbots or image generation.
 
 ## Cognitive Computing
 
 ![Cognitive Computing](AI_Definition-Cognitive.jpg)
 
+Cognitive Computing is used for AI systems that attempts to mimic human behavior. To some extent it looks and feels like interacting with another human.
 
+- Natrual Language Processing is when systems can process human language directly and not some artificial code language.
+- Text or Speech is how we interact with the systems. You can talk with it either by typing text using a chat function, or by speaking with it. ("Hi Google, where is the nearest pizza restaurant?")
+- Chatbots are systems you can have a discussion with in natural language. ("What are the dangers of using AI in public administration?")
+- Artifical image or video are systems that can generate photos or video sequences based on input in natural lanaguage. ("Give me a picture of a zebra in pyamas on the moon!").
+
+Cognitive Computing is about making the human-machine interface as natural, fluent and intuitive as possible, and requires AI technology to function.
 
 
 ## Technologies
 
-
 There are a number of technologies and algoritms available for building AI systems. They have different attributes and are selected according to the target use case.
-
-
 
 ### Supervised
 
 ![Supervised](AI_Definition-Supervised.jpg)
 
+Supervised learning is a method, where an AI system is trained for a specific job.
+
+The simple example is to train the system with hundreds or thousands of *cat* pictures to make it able to recognize if a picture contains a cat or not.
+
+This can be used in surveillance systems to recognize objects like suitcases or backpacks left behind on train stations, and maybe is a security risk.
 
 ### Unsupervised
 
 ![Unsupervised](AI_Definition-Unsupervised.jpg)
 
+Unsupervised learning is a method where an AI system is fed with large amounts of unknown data in order to find hidden structures.
+
+An example is to feed customer data with as manu attributes (address, income, sex, etc.etc.) and ask the system to profile different types of customers and that distinguisk them from other types. 
+
+This can be used in sales and marketing to target micro-segments of potential customers with tailored messages.
 
 ### Reinforcement
 
 ![Reinforcement](AI_Definition-Reinforcement.jpg)
 
+Reinforcement learning is a method where the system learns by doing. When the systems makes an action it receives either a reward for correct behavior, or is punished for bad actions.
+
+This can be used to train industry robots to spray paint car spare parts or move objects between assembly lines.
 
 ### Generative
 
 ![Generative](AI_Definition-Generative.jpg)
 
+Generative sysstems produces genuine new content based on requests. This can be natural language like teksts or visuals like pictures or videos.
+
+The system is trained with vast amounts of texts or visual material, and uses this to generate reponse to questions.
+
+This can be used to structure texts, respond to exam questions or generate new artwork.
 
 ## Development
 
 Building AI systems has historically required highly specialized IT developers and 'data scientists'.
 
+Today there are effective tools that enables quicker development and enhancements of AI systems.
+
+Also tools to manage the large amounts of data used for traning have improved. Correct data of high quality is a critical success factor for successful AI systems.
 
 
 
