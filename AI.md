@@ -1,16 +1,18 @@
 # Artificial Intelligence
 
+The basic concepts and terms explained.
+
 ![Artificial Intelligence Definitions](AI_Definition.jpg)
 
 ## Artificial Intelligence
 
 ![Artificial Intelligence](AI_Definition-AI.jpg)
 
-*Artificial Intelligence* describes any system that behaves like we expect human beings to do. If you talk to an AI system, or ask it a question, it will respond like it is intelligent.
+*Artificial Intelligence* describes any system that behaves like we expect human beings to. If you talk to an AI system, or ask it a question, it will respond like if it is intelligent.
 
-Identifying a system as AI is a matter of how it behaves. Behind the scenes, it is build by a number of technologies, selected and trained for the specific application.
+Identifying a system as AI is a matter of how it behaves. Behind the scenes, it is build by a number of technologies, selected, configured and trained for a specific application.
 
-The technologies behind AI systems are developing at a fast pace, both the power of algorithms and training data, as well as machine-human interfaces. And the information technology capacity has grown exponentally to process vast amounts of data and very complex algorithms with very high speed.
+The technologies behind AI systems are developing at a fast pace, both the power of algorithms and training data, as well as machine-human interfaces. And the technology capacity has grown exponentally to process vast amounts of data and complex algorithms with very high speed.
 
 ### Artificial General Intelligence
 
@@ -20,18 +22,20 @@ It may be mimicking humans or animals, or it may be a totally difference kind of
 
 As of today, we do not have any true AGI beings. The opinions of when that may happen range from never to the near future. Most agree, however, that if an AGI is ever born, it will have paramount implicaions for life on earth.
 
-
 ## Machine Learning
 
 ![Machine Learning](AI_Definition-MachineLearning.jpg)
 
 One of the key features of AI systems is that the systems are *trained* and not *programmed*.
 
-Most computer programs in today's IT systems are using a *determanistic^* programming model. This model is designed to execute fixed rules and will always deliver the same response to the same input. The IT programmer has decided what kind of input, the system can deal with, and what output it will generate.
+Most computer programs in today's IT systems are using a *determanistic* programming model. This model is designed to execute fixed rules and will always deliver the same response to the same input. The IT programmer has decided what kind of input, the system can deal with, and what output it will generate.
 
 Determanistic programming is for example "IF A, THEN B, OR ELSE C".
 
-Machine Learning, on the other hand, is *probabilistic*. It idenfities a situation and responds based on statistical weighting, not using any fixed rules.
+Machine Learning, on the other hand, is *probabilistic*. It idenfities a known or unknown situation and responds based on statistical weighting, not using any fixed rules.
+
+Probabilistic programming is for example "If the chance of this scan shows cancer is 0.95 (where 0 is absolutely not and 1 is absolutely for sure), then move paitent to next treatment stage".
+
 
 A Machine Learning system is *trained*, not *programmed*. This requires large amounts of representitive training data, and data for verification afterwards that the training results in the desired behaviour.
 
