@@ -30,7 +30,8 @@ One of the key features of AI systems is that the systems are *trained* and not 
 
 Most computer programs in today's IT systems are using a *determanistic* programming model. This model is designed to execute fixed rules and will always deliver the same response to the same input. The IT programmer has decided what kind of input, the system can deal with, and what output it will generate.
 
-Determanistic programming is for example "IF A, THEN B, OR ELSE C".
+Determanistic programming is for example "IF 2 = 2 THEN PRINT "We are still ok" OR ELSE PRINT "We are now in post-truth land"
+
 
 Machine Learning, on the other hand, is *probabilistic*. It idenfities a known or unknown situation and responds based on statistical weighting, not using any fixed rules.
 
@@ -119,7 +120,11 @@ Today there are effective tools that enables quicker development and enhancement
 
 Also tools to manage the large amounts of data used for traning have improved. Correct data of high quality is a critical success factor for successful AI systems.
 
+The consequences are two fold.
 
+The easiness and speed creates opportunities to use AI technology even more for helpful applications for transport, security, autonomuous machines, customer support, client advice and much more. AI is a powerful tool that can be used in many ways for the greater good.
+
+It also provides opportunity for sloppy low-quaality development causing systems with hidden racial, gender or society class biases, and directlly criminal activities like money laundering, financial fraud or uncontrolled uses in millitary grade weapons. AI is a powerful tool that an be used in many bad ways, unintentionally or intentionally harming us all.
 
 
 **(C) Lars Wriedt, May 2023**
