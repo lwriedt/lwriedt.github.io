@@ -43,7 +43,7 @@ Examples are listed in the following.
 
 *We define corruption as the abuse of entrusted power for private gain.*
 
-Humans has shown again and again that they can corrupt each other. We new see, that humans also can corrupt systems and algorithms for private gain.
+Humans has shown again and again that they can corrupt each other. We now see, that humans also can corrupt systems and algorithms for private gain.
 
 ## Entrusted power
 
@@ -135,13 +135,22 @@ Power will concentrate to people with influence on AI training, IT development o
 
 # Challenges
 
+There are several challenges to overcome before the risks above can be addressed.
+
+Some are inherent in the underlying technology components of AI systems, others come from the way business is organized or the way key concepts are understood or not.
+
 ## Lack of concensus
 
-There are no wide concensus of 'fair' or 'ethical'.
+There are no concensus of *fair* or *ethical*. The understanding of these concepts vary according to culture, organization or even between any two people.
 
-It is very difficult to determine for certain that an AI system is behaving fair and thical because there are no universal, measurable measure for this.
+It is very difficult to determine for certain that an AI system is behaving fair and thical because there are no universal, measurable measures for *fairness* or *ethical*.
+
 
 ## Intellectual Property
+
+Assets may be protected from public view by companies or individuals owning intellectual property rights to them.
+
+### Data
 
 Business processes or even business objectives may be inellectual property belonging to private companyes are not disclosed openly.
 
@@ -149,7 +158,22 @@ This make it vary hard to inspect and monitor.
 
 Example: Meta's algorithms seems to be designed for enhancing traffic, and less to ensure less un-thical or un-fair content. But the precise objectives and working of the Facebook recommendation engine is not pubnlicy known and cannot be independently verified.
 
-## Data privaey
+### Algorithms
+
+The AI algorithms may be intellectual property as well. The algorithms are mathematical formulas or models as well as software components.
+
+The algorithms and the tools to train and configure them are often sold as services, where clients are using them from an external interface. How they are build and how they work in detail is hidden - the algorithms are as much a black box as the AI system themselves!
+
+Examples: 
+
+Amazon Web Service offers [ AI Services ](https://aws.amazon.com/machine-learning/ai-services/)
+
+Google offers [ Google AI ](https://ai.google/)
+
+Microoft offers [ Microsoft AI ](https://www.microsoft.com/en-us/ai/)
+
+
+## Data privacy
 
 Data is rightfully protected. Specially access to person indentifiable data like medical or financial are regulated.
 
@@ -161,9 +185,44 @@ Example: A company uses data about its customers that are GDPR protected and can
 
 
 
+## Missing legal context
+
+There are no strog enforcement of laws or regulation today. Companies and people are allowed to use AI technology in any way, they choose.
+
+The **data** are often protected by regulations like EU/GDPR.
+
+Thee **AI Technology** is not.
+
+Legal freameworks has been defined and are offered, but they are not enschrined in law and not enforced.
+
+One of the strongest coming is from the European Union, preparing a comprehensive AI regulation. This is still in the final works, and once approved still have to be embedded in the EU countries legislation.
+
+And then there is the world outside EU, in particular USA and China - big users of the AI technology and mostly unretulated.
+
+## Ease of use
+
+The AI technology and the tools to develop and deploy AI applications are already today easy to use. They constantly improve both in features and supporting tools.
+
+The cost of development and operation is coming down. More and more IT people and team are enabled to work with AI technology.
+
+The consequence of this is, that we will see more and more AI applicatinos for more and more purposes. 
+
+# Transparency International
+
+TI has a growing focus on data protection and technology, and the dangers that corruption behavior jumps from the human to the machine world.
+
+TI's posiotion is
+
+Algorithmic **transparency** - factors that influence a decision must be defined and visible to the peope affected.
+
+Algorithmic **accountability** - those who employ the algorithm must be accountable for the outcome.
+
+Algorithmic **auditability** - Access to ML systems and data must be available to independent auditors.
+
+This must be **enforced** by regulation and judicial systems.
+
+AI, ML or not - free media, independent legal systems, regulation with audits and general awareness are needed.
 
 
 
-
-
-## (C) Lars Wriedt, 24 May 2023
+## (C) Lars Wriedt, 25 May 2023
