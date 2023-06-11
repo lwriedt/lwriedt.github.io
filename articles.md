@@ -7,11 +7,11 @@ What is Artificial Intelligence? [Artificial Intelligence](https://lwriedt.githu
 
 FakeNews [Deepfake Video](https://lwriedt.github.io/AI.mp4)
 
-ChatGPT's opinion on AI dangers [ChatGPT on AI Dangers](https://lwriedt.github.io/ChatGPT_Text_on_AI_Dangers)
+ChatGPT's own opinion on AI dangers [ChatGPT on AI Dangers](https://lwriedt.github.io/ChatGPT_Text_on_AI_Dangers)
 
 ---
 
-## Planned articles
+##### Planned articles
 
 Digitalization of public administration. [Digitalization of Administration](https://lwriedt.github.io/digital)
 
@@ -19,8 +19,7 @@ What is the part of humans in Artificial Intelligence? [Human factor](https://lw
 
 ---
 
-# About me
+##### About me
 
-[Lars Wriedt](https://lwriedt.github.io/aboutme)
+(C) [Lars Wriedt](https://lwriedt.github.io/aboutme), June 2023
 
-## (C) Lars Wriedt, May 2023
