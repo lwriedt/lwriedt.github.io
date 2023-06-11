@@ -2,13 +2,13 @@
 
 ## Data Ethics
 
-When data is being used for machine learning or artificial intelligence systems, there are regulations and legal requirements to adhere to. Rules determine what must or must not be done with the data.
+When data is being used for machine learning or artificial intelligence systems, there are regulations and legal requirements to adhere to. Rules determine what *must* or *must not* be done with the data.
 
-Even if a certain use of data is legal and within the regulations, it may still not be an ethical use. Ethics is the art of should or should not do.
+Even if a certain use of data is legal and within the regulations, it may still not be an ethical use. Ethics is the art of *should* or *should not* do. The issue is that there are no summary list about what is ethical or un-ethical.
 
 ## Ethical data use
 
-There are no fixed measures that validate a certain use of data as ethical. In general, most cases building on user consent is considered in the ethical realm.
+There are no fixed measures that validate a certain use of data as ethical. In general, most cases building on consent from the data owner or subject is considered in the ethical realm. It depends on human perception, decency and morality. 
 
 ## Un-ethical data use
 
@@ -20,7 +20,9 @@ Data may be used in a way, where the effect is not ethical without intention.
 
 Causes may be genuine errors, sloppy IT development and quality assureance, or imprecise requirements.
 
-Example: AI systems with un-intended biases, e.g. job application filtering where no women are selected for interviews.
+------
+
+- [ ] Example: AI systems with un-intended biases, e.g. job application filtering where no women are selected for interviews.
 
 ### Intended
 
@@ -28,11 +30,14 @@ Data may be intentionally used in un-ethical ways.
 
 Any use of data in spite of expressed user consent or accepted terms and conditions should not be considered ethical.
 
-Examples: Customers are profiles for price hikes to secure profits by exploiting a custosmer relationshi, or racial discrimination in prodictive crime algorithms.
+------
+
+- [ ] Examples: Customers are profiles for price hikes to secure profits by exploiting a customer relation, or racial discrimination in predictive crime algorithms.
+
 
 ### Misuse
 
-When power fra transferred from humans to systems, there is a motivation to also corrupt machines and AI algorithms.
+When power are transferred from humans to systems, there is a motivation to also corrupt machines and AI algorithms now in charge.
 
 Machines may be corrupted by intention to deliver unfair advantage or profits to those with power.
 
@@ -43,7 +48,7 @@ Examples are listed in the following.
 
 *We define corruption as the abuse of entrusted power for private gain.*
 
-Humans has shown again and again that they can corrupt each other. We now see, that humans also can corrupt systems and algorithms for private gain.
+Humans has shown again and again that they can and will corrupt each other. We now see, that humans also can corrupt systems and algorithms for private gain.
 
 ## Entrusted power
 
@@ -65,7 +70,10 @@ Most systems have the AI algorithm making suggestions or predictions based on st
 
 Changing the rules that interpret the AI algorithm output and trigger recommendations or actions.
 
-Example: The AI algorithm calculates, that this particular job application should be selected for interview by a 0.96 score. The follow on IT system has a rule, that says all applications scoring above 0.95 should go to the interview list.
+------
+
+- [ ] Example: The AI algorithm calculates, that this particular job application should be selected for interview by a 0.96 score. The follow on IT system has a rule, that says all applications scoring above 0.95 should go to the interview list.
+
 
 If these rules can be influenced, then the end-to-end system bay produce unfair, un-ethical results.
 
@@ -77,15 +85,20 @@ An AI system is set into operatinal use after being developed.
 
 Data, that is presented to the AI algorithm now needs to be prepared. This preparation step can be tweaked so the AI system delivers unfair and un-ethical results.
 
-Example: Job applications in PDF, handwritten, email or schema formats need to preprocessed to one structured data scheme before sent to the AI algorithm. Falses data can be introduced at this point.
+------
 
-Example: Image datam may be tweaked or have mask overlays that influence the AI algorithm to come to a different result when analysing the image. This has been done with Xray scans of patients being investigated for possible cancer.
+- [ ] Example: Job applications in PDF, handwritten, email or schema formats need to preprocessed to one structured data scheme before sent to the AI algorithm. Falses data can be introduced at this point.
+
+- [ ] Example: Image datam may be tweaked or have mask overlays that influence the AI algorithm to come to a different result when analysing the image. This has been done with Xray scans of patients being investigated for possible cancer.
+
 
 ### Management power
 
 The managed has the power to decide which processes should be moved to AI systems and what the success criteria are. If these decisions are not precise and present no measurable objectives that can be verified against, then it is harder to know for the defvelopers when the AI system has the nessecary quality for going into operation.
 
-Example: The management decides to move the selection of job applications to an AI system. It shoiuld "select the best candidates for the jon, and we should save HR time for this screening proccess". This enable system developers the power to decide, which job applicants to select, and opens the risk of introducing for example racial or gender bias, which is not detected because it is not tested for.
+------
+
+- [ ] Example: The management decides to move the selection of job applications to an AI system. It shoiuld "select the best candidates for the jon, and we should save HR time for this screening proccess". This enable system developers the power to decide, which job applicants to select, and opens the risk of introducing for example racial or gender bias, which is not detected because it is not tested for.
 
 ## Private gain
 
@@ -97,15 +110,21 @@ Services like promotions or sexual, or money like cash can be hoth the reward or
 
 Services or money are classic, old fashioned instruments to corruptions like bribery, embezzelement or blackmail.
 
-Example: I give you this money, and you tweak my picture of my car assicent so my insurance claim is not selected for further inspection but are automatically paid out.
+------
+
+- [ ] Example: I give you this money, and you tweak my picture of my car assicent so my insurance claim is not selected for further inspection but are automatically paid out.
+
 
 ### Promotion of interests
 
 The reward for twaaking AI systems in unfair and un-ethical ways can be the promotion of special interests. This could be a political agenda like white supremacy or favors to your family or friends.
 
-Example: I give you this money, and you make this AI system select white, christial males for job interviews.
+------
 
-Example: I offer this job to your son if you insert this data into the training of the AI algorithm you have access to.
+- [ ] Example: I give you this money, and you make this AI system select white, christial males for job interviews.
+
+- [ ] Example: I offer this job to your son if you insert this data into the training of the AI algorithm you have access to.
+
 
 
 # AI risks
@@ -116,7 +135,10 @@ AI systems present new risks as well as enhancing existing ones.
 
 When a process is moved from humans to machines, then the intelligence of that system influences far more than any one human being can do.
 
-Example: A job application selection AI system are used to process all job applications for the whole company to get effeciency gains. This was done by 10 persons in HR previously. Corrupting one AI system now influences all job applictions, where corrupting one HR person before only influences one tenth.
+------
+
+- [ ] Example: A job application selection AI system are used to process all job applications for the whole company to get effeciency gains. This was done by 10 persons in HR previously. Corrupting one AI system now influences all job applictions, where corrupting one HR person before only influences one tenth.
+
 
 ## Loss of knowledge
 
@@ -124,7 +146,10 @@ When a process is moved to an AI sysTEm, knowledge goes with it. Users will over
 
 The risk is, that human users over time loose the expert knowledge to see if the AI decions are fair and ethical and just let it pass.
 
-Example: The HR person is under time pressure to be efficient in the job and will not reflect on the job application selections by the AI system, but just pass them on.
+------
+
+- [ ] Example: The HR person is under time pressure to be efficient in the job and will not reflect on the job application selections by the AI system, but just pass them on.
+
 
 Also, once the system is going, then new hires may not have to qualify on the same knowledge level as the previous employees, and over time the collective pool of knowledge will diminish.
 
@@ -156,7 +181,9 @@ Business processes or even business objectives may be inellectual property belon
 
 This make it vary hard to inspect and monitor.
 
-Example: Meta's algorithms seems to be designed for enhancing traffic, and less to ensure less un-thical or un-fair content. But the precise objectives and working of the Facebook recommendation engine is not pubnlicy known and cannot be independently verified.
+------
+
+- [ ] Example: Meta's algorithms seems to be designed for enhancing traffic, and less to ensure less un-thical or un-fair content. But the precise objectives and working of the Facebook recommendation engine is not pubnlicy known and cannot be independently verified.
 
 ### Algorithms
 
@@ -164,13 +191,10 @@ The AI algorithms may be intellectual property as well. The algorithms are mathe
 
 The algorithms and the tools to train and configure them are often sold as services, where clients are using them from an external interface. How they are build and how they work in detail is hidden - the algorithms are as much a black box as the AI system themselves!
 
-Examples: 
+------
 
-Amazon Web Service offers [ AI Services ](https://aws.amazon.com/machine-learning/ai-services/)
+- [ ] Examples: Amazon Web Service offers [ AI Services ](https://aws.amazon.com/machine-learning/ai-services/). Google offers [ Google AI ](https://ai.google/). Microoft offers [ Microsoft AI ](https://www.microsoft.com/en-us/ai/)
 
-Google offers [ Google AI ](https://ai.google/)
-
-Microoft offers [ Microsoft AI ](https://www.microsoft.com/en-us/ai/)
 
 
 ## Data privacy
@@ -181,8 +205,9 @@ There are numerous laws and retulations like EU's GDPR regulation in this area.
 
 The consequence is, that data that are used for training of AI algorithms may not be disclosed for inspection or validation.
 
-Example: A company uses data about its customers that are GDPR protected and cannot be shared outside the company, and thus makes it impossinble for any outside third party to validate that the companys AI engine is trained in fair and ethical ways.
+------
 
+- [ ] Example: A company uses data about its customers that are GDPR protected and cannot be shared outside the company, and thus makes it impossinble for any outside third party to validate that the companys AI engine is trained in fair and ethical ways.
 
 
 ## Missing legal context
@@ -213,16 +238,17 @@ TI has a growing focus on data protection and technology, and the dangers that c
 
 TI's posiotion is
 
-Algorithmic **transparency** - factors that influence a decision must be defined and visible to the peope affected.
+- Algorithmic **transparency** - factors that influence a decision must be defined and visible to the peope affected.
 
-Algorithmic **accountability** - those who employ the algorithm must be accountable for the outcome.
+- Algorithmic **accountability** - those who employ the algorithm must be accountable for the outcome.
 
-Algorithmic **auditability** - Access to ML systems and data must be available to independent auditors.
+- Algorithmic **auditability** - Access to ML systems and data must be available to independent auditors.
 
-This must be **enforced** by regulation and judicial systems.
+- This must be **enforced** by regulation and judicial systems.
 
-AI, ML or not - free media, independent legal systems, regulation with audits and general awareness are needed.
+- AI, ML or not - free media, independent legal systems, regulation with audits and general awareness are needed.
 
 
 
-## (C) Lars Wriedt, 25 May 2023
+
+###### (C) Lars Wriedt, June 2023
