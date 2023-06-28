@@ -1,8 +1,8 @@
 # Data Ethics and Artificial Intelligence
 
-Automated systems that can take decisions by themselves are already everywhere.
+Automated systems, that takes decisions by themselves, are already everywhere.
 
-Complex machines like cars, planes, manufacturing and medical equipment need embedded chips with logic, algorithms and artificial intelligence  to operate. Security systems in private and public places scans video streams to find anomalies and signs of trouble.
+Complex machines like cars, planes, manufacturing and medical equipment use embedded chips with logic, algorithms and artificial intelligence  to operate. Security systems in private and public places scans video streams to find anomalies and signs of trouble.
 
 Digitalization moves into administration more and more, and also into creative jobs. Anything processing data and recognizing patterns can take advantage of information technology.
 
@@ -14,9 +14,9 @@ Unethical use of data and misuse of algorithms for private gain are corruption. 
 
 ## Data Ethics
 
-When data is being used for machine learning or artificial intelligence systems, there are some early regulations and legal requirements to adhere to. Rules determine what *must* or *must not* be done with the data. Sensitive personal data are protected, at least in some juristictions around the world.
+When data is being used for machine learning or artificial intelligence systems, there are some data protection regulations and legal requirements to adhere to. Sensitive personal data are protected, at least in some juristictions around the world. Rules determine what *can* or *must not* be done with the data.
 
-Even if a certain use of data is legal and within the regulations, it may still not be an ethical use. Ethics is the art of *should* or *should not* do. This is on top of rules specifying what you *must* and *must not* do.  
+Even if a certain use of data is legal and within the regulations, it may still not be an ethical use. Ethics is the art of *should* or *should not* do.
 
 The issue is that there are no summary list about what is ethical or un-ethical.
 
@@ -26,6 +26,12 @@ There are no fixed measures that validate a certain use of data as ethical. In g
 
 It depends on human perception, decency and morality. It involves a level of self control and to behave even with someone is not looking.
 
+------
+
+- Example: Scanning electroning patient records to determine if the right claims were made for insurance re-imbursement.
+
+
+
 ## Un-ethical data use
 
 There are at least three variants of un-ethical data usage.
@@ -34,11 +40,13 @@ There are at least three variants of un-ethical data usage.
 
 Data may be used in a way, where the effect is not ethical without intention.
 
-Causes may be genuine errors, sloppy IT development and quality assureance, or imprecise requirements.
+Causes may be genuine errors, sloppy IT development and quality assurance, or imprecise requirements.
 
 ------
 
-- [ ] Example: AI systems with un-intended biases, e.g. job application filtering where no women are selected for interviews.
+- Example: Job application are filtered for the first interview, but no women are selected even when they qualify against the job requirements.
+
+
 
 ### Intended
 
@@ -48,7 +56,9 @@ Any use of data in spite of expressed user consent or accepted terms and conditi
 
 ------
 
-- [ ] Examples: Customers are profiled for price hikes to secure profits by exploiting a customer relation, or racial discrimination in predictive crime algorithms.
+- Examples: Customers are profiled for price hikes to secure profits by exploiting a customer relation, or racial discrimination in predictive crime algorithms.
+
+
 
 
 ### Misuse
@@ -88,7 +98,7 @@ Changing the rules that interpret the AI algorithm output and trigger recommenda
 
 ------
 
-- [ ] Example: The AI algorithm calculates, that this particular job application should be selected for interview by a 0.96 score. The follow on IT system has a rule, that says all applications scoring above 0.95 should go to the interview list.
+- Example: The AI algorithm calculates, that this particular job application should be selected for interview by a 0.96 score. The follow on IT system has a rule, that says all applications scoring above 0.95 should go to the interview list.
 
 
 If these rules can be influenced, then the end-to-end system bay produce unfair, un-ethical results.
@@ -105,9 +115,11 @@ Data, that is presented to the AI algorithm now needs to be prepared. This prepa
 
 ------
 
-- [ ] Example: Job applications in PDF, handwritten, email or schema formats need to preprocessed to one structured data scheme before sent to the AI algorithm. Falses data can be introduced at this point.
+- Example: Job applications in PDF, handwritten, email or schema formats need to preprocessed to one structured data scheme before sent to the AI algorithm. Falses data can be introduced at this point.
 
-- [ ] Example: Image datam may be tweaked or have mask overlays that influence the AI algorithm to come to a different result when analysing the image. This has been done with Xray scans of patients being investigated for possible cancer.
+- Example: Image datam may be tweaked or have mask overlays that influence the AI algorithm to come to a different result when analysing the image. This has been done with Xray scans of patients being investigated for possible cancer.
+
+
 
 
 ### Management power
@@ -116,7 +128,9 @@ The managed has the power to decide which processes should be moved to AI system
 
 ------
 
-- [ ] Example: The management decides to move the selection of job applications to an AI system. It should "select the best candidates for the job, and we should save HR time for this screening process". This gives system developers the power to decide, which job applicants to select, and opens the risk of introducing for example racial or gender bias, which is not detected because it is not tested for.
+- Example: The management decides to move the selection of job applications to an AI system. It should "select the best candidates for the job, and we should save HR time for this screening process". This gives system developers the power to decide, which job applicants to select, and opens the risk of introducing for example racial or gender bias, which is not detected because it is not tested for.
+
+
 
 ## Private gain
 
@@ -126,11 +140,14 @@ Humans gain from corrupting systems by obtaining illigal or un-ethical favors or
 
 Services like promotions or sexual, or money like cash can be hoth the reward or the offering used to have people with entrusted powers like above make unfair or un-ethical changes to the systems.
 
-Services or money are classic, old fashioned instruments to corruptions like bribery, embezzelement or blackmail.
+Services or money are classic, old fashioned instruments to corruptions like bribery, embezzlement or blackmail.
 
 ------
 
-- [ ] Example: I give you this money, and you tweak my picture of my car accicent so my insurance claim is not selected for further inspection but are automatically paid out.
+- Example: I give you this money, and you tweak my picture of my car accident so my insurance claim is not selected for further inspection but are automatically paid out.
+- Example: Your technical capabilities will be promoted massively on our social media channels, if you build in hidden pro-life bias in your company's recommendation engine for medical treatments.
+
+
 
 
 ### Promotion of interests
@@ -139,9 +156,9 @@ The reward for twaaking AI systems in unfair and un-ethical ways can be the prom
 
 ------
 
-- [ ] Example: I give you this money, and you make this AI system select white, Christian white males for job interviews.
+- Example: I give you this money, and you make this AI system select white, Christian white males for job interviews.
 
-- [ ] Example: I offer this job to your son if you insert this data into the training of the AI algorithm you have access to.
+- Example: I offer this job to your son if you insert this data into the training of the AI algorithm you have access to.
 
 
 
@@ -155,7 +172,9 @@ When a process is moved from humans to machines, then the intelligence of that s
 
 ------
 
-- [ ] Example: A job application selection AI system are used to process all job applications for the whole company to get effeciency gains. This was done by 10 persons in HR previously. Corrupting one AI system now influences all job applictions, where corrupting one HR person before only influences one tenth.
+- Example: A job application selection AI system are used to process all job applications for the whole company to get effeciency gains. This was done by 10 persons in HR previously. Corrupting one AI system now influences all job applictions, where corrupting one HR person before only influences one tenth.
+
+
 
 
 ## Loss of knowledge
@@ -183,26 +202,38 @@ There are several challenges to overcome before the risks above can be addressed
 
 Some are inherent in the underlying technology components of AI systems, others come from the way business is organized or the way key concepts are understood or not.
 
+![Risk overview](Data_Ethics_AI_Risk.jpg)
+
+
+
 ## Lack of concensus
 
-There are no concensus of *fair* or *ethical*. The understanding of these concepts vary according to culture, organization or even between any two people.
+There are no concensus of *fair* or *ethical*. The understanding of these concepts vary according to culture, country, organization or even between any two people.
 
-It is very difficult to determine for certain that an AI system is behaving fair and thical because there are no universal, measurable measures for *fairness* or *ethical*.
+It is very difficult to determine for certain that an AI system is behaving fair and ethical because there are no universal, measurable measures for *fairness* or *ethical*.
 
+## Undisclosed business objects
 
-## Intellectual Property
-
-Assets may be protected from public view by companies or individuals owning intellectual property rights to them.
-
-### Data
-
-Business processes or even business objectives may be inellectual property belonging to private companyes are not disclosed openly.
-
-This make it vary hard to inspect and monitor.
+The objective, that the AI system is designed to achieve may not be disclosed to the public. A number of organizations regard the objectives of the technology they deploy to be business confidential, and if exposed to reveal trade secrets.
 
 ------
 
-- [ ] Example: Meta's algorithms seems to be designed for enhancing traffic, and less to ensure less un-thical or un-fair content. But the precise objectives and working of the Facebook recommendation engine is not pubnlicy known and cannot be independently verified.
+- Example: Meta's business model relies on traffic on Facebook, driving advertisement revenue. The search and selection algorithms are designed to grow traffic. The way to do that may be to prioritize news and posts that has emotional impact over objective truths. But the precise objective is not known outside Meta.
+- Example: The objective of chatbots, that are deployed on a company's support pages may be to offer self-help service advice, but may also have an element of promoting the next generation product or add-ons for additional sales. This balance is not disclosed outside the company. The result may be unfair bias in the advice presented to the user.
+
+
+
+### Protected Data
+
+Data used to train AI systems may be protected, and rightly so. It may contain very sensitive personal data.
+
+------
+
+- Example: Health care systems that are fed with patient data and results in a diagnose diabetes and recommend a correct dose of insulin need to be trained with large volumes of historical patient records, insulin usage and treatment outcomes. This is very sensitive personal information and protected by a number of data privacy regulations. It is not possible for the system developers to disclose in detail all the training data they used in the development and quality assurance process. This is also true for the transaction data, that are later fed to the system and the recommendations made. 
+- Example: Military machines like self-guided missiles are often using reinforcement algorithms, that are trained in a high number of real or simulated situations. These situations are confidential to the military and cannot be exposed in public.
+- Example: A company uses data about its customers that are GDPR protected and cannot be shared outside the company, and thus makes it impossible for any outside third party to validate that the company's AI engine is trained in fair and ethical ways.
+
+
 
 ### Algorithms
 
@@ -212,36 +243,39 @@ The algorithms and the tools to train and configure them are often sold as servi
 
 ------
 
-- [ ] Examples: Amazon Web Service offers [ AI Services ](https://aws.amazon.com/machine-learning/ai-services/). Google offers [ Google AI ](https://ai.google/). Microoft offers [ Microsoft AI ](https://www.microsoft.com/en-us/ai/)
+- Examples: Amazon Web Service offers [ AI Services ](https://aws.amazon.com/machine-learning/ai-services/). Google offers [ Google AI ](https://ai.google/). Microoft offers [ Microsoft AI ](https://www.microsoft.com/en-us/ai/). These are all commercial products, which are sold on the market and generates revenue. Their design, effiency and accuracy are also a competitive factor on the market. New developments can provide the vendor with a market advantage in a certain time span. The algorithm features are  trade secrets, and the companies will not expose their intellectual properties.
 
-
-
-## Data privacy
-
-Data is rightfully protected. Specially access to person indentifiable data like medical or financial are regulated.
-
-There are numerous laws and retulations like EU's GDPR regulation in this area.
-
-The consequence is, that data that are used for training of AI algorithms may not be disclosed for inspection or validation.
-
-------
-
-- [ ] Example: A company uses data about its customers that are GDPR protected and cannot be shared outside the company, and thus makes it impossinble for any outside third party to validate that the companys AI engine is trained in fair and ethical ways.
 
 
 ## Missing legal context
 
-There are no strog enforcement of laws or regulation today. Companies and people are allowed to use AI technology in any way, they choose.
+There are no laws or regulations for AI usage in most juristictions around the world.  If laws exist, the enforcement is mostly weak and inadequate.  Companies and people are allowed to use AI technology in any way, they choose.
 
 The **data** are often protected by regulations like EU/GDPR.
 
 Thee **AI Technology** is not.
 
-Legal freameworks has been defined and are offered, but they are not enschrined in law and not enforced.
+Legal freameworks has been defined and are offered, but they are not transposed info in law and therefore not enforced.
 
-One of the strongest coming is from the European Union, preparing a comprehensive AI regulation. This is still in the final works, and once approved still have to be embedded in the EU countries legislation.
+One of the strongest coming is from the European Union, preparing a comprehensive AI regulation., the *AI Act*  This is still in the final works, and once approved still have to be embedded in the EU countries legislation.
 
-And then there is the world outside EU, in particular USA and China - big users of the AI technology and mostly unretulated.
+And then there is the world outside EU, in particular USA and China - big users of the AI technology and mostly unregulated.
+
+------
+
+- Example: In China, facial recognition is widespread, and CCTV systems are used to identify and monitor individuals for both criminal and political investigations. Broad use of facial recognition in public spaces is proposed in the *EU AI Act* to be forbidden.
+
+
+
+## Corruption
+
+The perception of misuse of AI systems are not clearly defined, and there are no wide concensus. This make it hard to detect attempts of misuse, and then to prevent it.
+
+------
+
+- Example: Transparency International defines it as *AI misuse of entrusted power for private gain*. Other oranizatiosn or individual companies may have a different definition.
+
+
 
 ## Ease of use
 
@@ -267,6 +301,8 @@ TI's posiotion is
 
 - Free media, independent legal systems, regulation with audits and general awareness are needed also for managing the risks of digitalization.
 
+
+
 ## Regulation
 
 Transparency supports legislation and regulation for digitalization of machines and processes, and the use of data and algorithms.
@@ -274,6 +310,8 @@ Transparency supports legislation and regulation for digitalization of machines 
 ------
 
 - We trace the EU AI Act and look forward to the finalizing the Act and the following transposition into EU countries.
+
+
 
 ## TI proposes risk assessments
 
