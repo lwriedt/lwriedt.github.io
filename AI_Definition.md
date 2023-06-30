@@ -1,6 +1,8 @@
 # Artificial Intelligence
 
-The basic concepts and terms explained.
+This article explains the basic concepts and terms for *Artificial Intelligence* to create a quick reference for discussions.
+
+.
 
 ![Artificial Intelligence Definitions](AI_Definition.jpg)
 
@@ -8,19 +10,21 @@ The basic concepts and terms explained.
 
 ![Artificial Intelligence](AI_Definition-AI.jpg)
 
-*Artificial Intelligence* describes any system that behaves like we expect human beings to. If you talk to an AI system, or ask it a question, it will respond like if it is intelligent.
+*Artificial Intelligence (AI)* describes any system that behaves like we expect human beings to. If you interact with an AI system using speech or text and ask it a question, it will respond like if it is intelligent.
 
-Identifying a system as AI is a matter of how it behaves. Behind the scenes, it is build by a number of technologies, selected, configured and trained for a specific application.
+Identifying a system as AI is a matter of, how it behaves. Behind the scenes, it is build by a number of technologies These are selected, configured and trained for a specific application.
 
 The technologies behind AI systems are developing at a fast pace, both the power of algorithms and training data, as well as machine-human interfaces. And the technology capacity has grown exponentally to process vast amounts of data and complex algorithms with very high speed.
 
 ### Artificial General Intelligence
 
-AGI is a selv-consious system with it's own desires, consience, reasoning and decisions. AGI will be selv-aware and may have desires to stay alive, multiply and evolve - characteristics of life itself.
+A fully conscious, self-aware machine is called *Artificial General Intelligence (AGM)*.  An AGM will, just like a human, have its own desires with cognitive and creative abilities to fullfil its own destiny, and with an instinct of self-preservation, survival and evolution.
 
-It may be mimicking humans or animals, or it may be a totally difference kind of being.
+AGMs do not exist and cannot be build with the technologies, we have today. The science and IT communities disagrees if and when an AGM may happen.  
 
-As of today, we do not have any true AGI beings. The opinions of when that may happen range from never to the near future. Most agree, however, that if an AGI is ever born, it will have paramount implicaions for life on earth.
+Most agree, however, that if an AGI is ever born, it will have paramount implications for life on earth.
+
+
 
 ## Machine Learning
 
@@ -28,17 +32,21 @@ As of today, we do not have any true AGI beings. The opinions of when that may h
 
 One of the key features of AI systems is that the systems are *trained* and not *programmed*.
 
-Most computer programs in today's IT systems are using a *determanistic* programming model. This model is designed to execute fixed rules and will always deliver the same response to the same input. The IT programmer has decided what kind of input, the system can deal with, and what output it will generate.
+Most computer programs in today's IT systems are using a *deterministic* programming model. This model is designed to execute fixed rules and will always deliver the same response to the same input. The IT programmer has decided what kind of input, the system can deal with, and what output it will generate.
 
-Determanistic programming is for example "IF 2 = 2 THEN PRINT "We are still ok" OR ELSE PRINT "We are now in post-truth land"
+> Example of deterministic programming:
+>
+> "IF 2 = 2 THEN PRINT "We are still ok" OR ELSE PRINT "We are now in post-truth land"
 
 
 Machine Learning, on the other hand, is *probabilistic*. It idenfities a known or unknown situation and responds based on statistical weighting, not using any fixed rules.
 
-Probabilistic programming is for example "If the chance of this scan shows cancer is 0.95 (where 0 is absolutely not and 1 is absolutely for sure), then move paitent to next treatment stage".
+> Example of probabilistic programming:
+>
+> "If the chance of this scan shows cancer is 0.95 or more (where 0 is absolutely not and 1 is absolutely for sure), then move patient to next treatment stage".
 
 
-A Machine Learning system is *trained*, not *programmed*. This requires large amounts of representitive training data, and data for verification afterwards that the training results in the desired behaviour.
+A Machine Learning system is *trained*, not *programmed*. This requires large amounts of representative training data, and data for verification afterwards to ensure, that the training results in the desired behaviour.
 
 Systems based on probabilistic models are powerful because it can deal with unexpected or unknown input without any IT programmer figuring out in advance how the system should respond.
 
@@ -62,17 +70,17 @@ Neural Networks are the algorithms behind the newer generative tools like chatbo
 
 Cognitive Computing is used for AI systems that attempts to mimic human behavior. To some extent it looks and feels like interacting with another human.
 
-- Natrual Language Processing is when systems can process human language directly, and do require any special IT code.
+- Natural Language Processing is when systems can process human language directly, and do require any special IT code.
 - Text or Speech is how we interact with the systems. You can talk with it either by typing text using a chat function, or by speaking with it. ("Hi Google, where is the nearest pizza restaurant?")
 - Chatbots are systems you can have a discussion with in natural language. ("What are the dangers of using AI in public administration?")
-- Artifical image or video are systems that can generate photos or video sequences based on input in natural lanaguage. ("Give me a picture of a zebra in pyamas on the moon!").
+- Artificial image or video are systems that can generate photos or video sequences based on input in natural lanaguage. ("Give me a picture of a zebra in pyamas on the moon!").
 
 Cognitive Computing is about making the human-machine interface as natural, fluent and intuitive as possible, and requires AI technology to function.
 
 
 ## Technologies
 
-There are a number of technologies and algoritms available for building AI systems. They have different attributes and are selected according to the target use case.
+There are a number of technologies and algorithms available for building AI systems. They have different attributes and are selected according to the target use case.
 
 ### Supervised
 
@@ -98,17 +106,21 @@ This can be used in sales and marketing to target micro-segments of potential cu
 
 ![Reinforcement](AI_Definition-Reinforcement.jpg)
 
-Reinforcement learning is a method where the system learns by doing. When the systems makes an action it receives either a reward for correct behavior, or is punished for bad actions.
+Reinforcement learning is a method where the system learns by doing. When the systems makes an action it receives either a reward for correct behaviour, or is punished for bad actions. While doing it's job and receiving rewards and punishments, it improves the algorithm settings to avoid mistakes and achieve better results.
 
-This can be used to train industry robots to spray paint car spare parts or move objects between assembly lines.
+The algorithm needs a target to optimize performance against, and it need a digital representation of the physical world like a digital twin if it to be embedded into e.g. a machine.
+
+This can be used to train industry robots to spray paint car parts or move objects between assembly lines.
+
+This can also be used to optimize digital processes like a spam mail filter.
 
 ### Generative
 
 ![Generative](AI_Definition-Generative.jpg)
 
-Generative sysstems produces genuine new content based on requests. This can be natural language like teksts or visuals like pictures or videos.
+Generative systems produces genuine new content based on requests. This can be natural language like texsts or visuals like pictures or videos.
 
-The system is trained with vast amounts of texts or visual material, and uses this to generate reponse to questions.
+The system is trained with vast amounts of texts or visual material, and uses this to generate reponse to questions. The system may be presented with a question (a 'prompt') and will respond with a generated new answer, not copy/paste from something, that already exists.
 
 This can be used to structure texts, respond to exam questions or generate new artwork.
 
@@ -122,9 +134,8 @@ Also tools to manage the large amounts of data used for traning have improved. C
 
 The consequences are two fold.
 
-The easiness and speed creates opportunities to use AI technology even more for helpful applications for transport, security, autonomuous machines, customer support, client advice and much more. AI is a powerful tool that can be used in many ways for the greater good.
+The easiness and speed creates opportunities to use AI technology even more for helpful applications for transport, security, autonomous machines, customer support, client advice and much more. AI is a powerful tool that can be used in many ways for the greater good.
 
-It also provides opportunity for sloppy low-quaality development causing systems with hidden racial, gender or society class biases, and directlly criminal activities like money laundering, financial fraud or uncontrolled uses in millitary grade weapons. AI is a powerful tool that an be used in many bad ways, unintentionally or intentionally harming us all.
-
+It also provides opportunity for sloppy low-quality development causing systems with hidden racial, gender or society class biases, and directly criminal activities like money laundering, financial fraud or uncontrolled uses in military grade weapons. AI is a powerful tool that an be used in many bad ways, unintentionally or intentionally harming us all.
 
 **(C) Lars Wriedt, May 2023**
