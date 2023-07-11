@@ -25,9 +25,9 @@ When data is being used for machine learning or artificial intelligence systems,
 
 Even if a certain use of data is legal and within the regulations, it may still not be considered an ethical use. Ethics is the art of *should* or *should not* do.
 
-But what is '[ethical](https://en.wikipedia.org/wiki/Ethics_of_artificial_intelligence)' in relation to 'artificial intelligence' and use of data? The issue is that there are no authoritative, generally agreed definition of, what is ethical or un-ethical. There are no fixed measures or tests that validate if a certain use of data as ethical or not. 
+But what is '[ethical](https://en.wikipedia.org/wiki/Ethics_of_artificial_intelligence)' in relation to 'artificial intelligence' and use of data? The issue is that there are no authoritative, generally agreed definition of, what is ethical or un-ethical. There are no fixed measures or tests that validate if a certain use of data as ethical or not. It depends on human perception, decency and morality. It involves a level of self control and to behave even with someone is not looking.
 
-In general, most cases building on consent from the data owner or subject is considered in the ethical realm. It depends on human perception, decency and morality. It involves a level of self control and to behave even with someone is not looking.
+In general, most cases building on consent from the data owner or subject is considered in the ethical realm. 
 
 ------
 
@@ -121,15 +121,15 @@ However, newer methods like continuous development, integration and deployment (
 
 ![Transaction parsing](Data_Ethics_AI_Parsing.jpg)
 
-An AI system is set into operational use after being developed.
+An AI system is moved into operational use after being developed.
 
-Data, that is presented to the AI algorithm now needs to be prepared. This preparation step can be tweaked so the AI system delivers unfair and un-ethical results.
+Data, that is presented to the AI algorithm now needs to be prepared. This preparation step, often called 'parsing' can be tweaked so the AI system delivers unfair and un-ethical results.
 
 ------
 
-- Example: Job applications in PDF, handwritten, email or schema formats need to preprocessed to one structured data scheme before sent to the AI algorithm. False data can be introduced at this point.
+- Example: Job applications in PDF, handwritten, email or schema formats need to pre-processed to one structured data scheme before sent to the AI algorithm. False data can be introduced at this point to have a particular application selected or omitted for next stage interviews.
 
-- Example: Image datam may be tweaked or have mask overlays that influence the AI algorithm to come to a different result when analysing the image. This has been done with Xray scans of patients being investigated for possible cancer.
+- Example: Image data may be tweaked or have mask overlays that influence the AI algorithm to come to a different result when analysing the image. This has been done with Xray scans of patients being investigated for possible cancer.
 
 
 
@@ -178,7 +178,9 @@ The reward for twaaking AI systems in unfair and un-ethical ways can be the prom
 
 # AI risks
 
-AI systems present new risks as well as enhancing existing ones.
+[Corruption](https://www.transparency.org/en/what-is-corruption) has many shapes and has existed since humans began to organize more complex communities. Humans has always corrupted other humans for private gain.
+
+The proliferation of AI systems everywhere in our systems and processes opens a whole new field of corruption risks. AI systems are vulnerable and can be misused for private gain. There are at least the following reasons why AI systems increase the risks to a completely different level.
 
 ## Scale
 
@@ -188,18 +190,31 @@ When a process is moved from humans to machines, then the intelligence of that s
 
 - Example: A job application selection AI system are used to process all job applications for the whole company to get effeciency gains. This was done by 10 persons in HR previously. Corrupting one AI system now influences all job applictions, where corrupting one HR person before only influences one tenth.
 
+"If you bribe a person, perhaps 10 other persons may be unfairly impacted. If you bribe a system, perhaps 10.000 people are impacted."
 
+## Opaque
 
+It is not possible to see, what goes in inside the black box of the AI algorithms and how they arrive to a result. Probabilistic code cannot be read out and understood like deterministic programming code.
 
-## Loss of knowledge
+The training data can be massive and impossible to interpret. When production transactions with data, which are new to the AI algorithm, are fed into the system, it is not possible to determine why *this* result was caused by *that* training data.
 
-When a process is moved to an AI sysTEm, knowledge goes with it. Users will over time tend to rely on the system and become less critical of it's decisions.
-
-The risk is, that human users over time loose the expert knowledge to see if the AI decions are fair and ethical and just let it pass.
+This opacity also make it hard to detect if un-ethical corruption is happening. If you cannot explain why *this* transaction caused *that* result, you cannot determine if the result is un-ethical or corrupt.
 
 ------
 
-- [ ] Example: The HR person is under time pressure to be efficient in the job and will not reflect on the job application selections by the AI system, but just pass them on.
+- Example: A medical AI system investigates a condition and prescribes a medicine for treatment. A corrupt bias has secretly been build into the system so the product of a certain manufacturer is prescribed 10% more, than it otherwise would have been. This represent a huge unfair profit for the manufacturer, but also that the patient may not always get the most effective treatment.
+
+## Loss of knowledge
+
+When a process is moved to an AI system, knowledge goes with it. Users will over time tend to rely on the system and become less critical of it's decisions.
+
+The risk is, that the human users over time loose the expert knowledge to see if the AI decisions are fair and ethical and just let it pass.
+
+The professionalism disappears or reduces, and expert or common sense validation of the system during daily use does not happen.
+
+------
+
+- Example: The HR person is under time pressure to be efficient in the job and will not reflect on the job application selections by the AI system, but just pass them on.
 
 Also, once the system is going, then new hires may not have to qualify on the same knowledge level as the previous employees, and over time the collective pool of knowledge will diminish.
 
@@ -207,22 +222,22 @@ Loss of knowledge can also impact whistleblowing. If the systems are becoming so
 
 ## Concentration of power
 
-Power will concentrate to people with influence on AI training, IT development or access to data during operation, and move away from people in the business units.
+Power will concentrate to people with influence on AI training, IT development or access to data during operation, and move away from people in the business units, and specially the people impacted by the automated decisions.
 
 
 # Challenges
 
 There are several challenges to overcome before the risks above can be addressed.
 
-Some are inherent in the underlying technology components of AI systems, others come from the way business is organized or the way key concepts are understood or not.
+Some are inherent in the underlying technology components of AI systems, others come from the way business is organized or the way key concepts are understood.
 
 ![Risk overview](Data_Ethics_AI_Risk.jpg)
 
 
 
-## Lack of concensus
+## Lack of consensus
 
-There are no concensus of *fair* or *ethical*. The understanding of these concepts vary according to culture, country, organization or even between any two people.
+There are no consensus of *fair* or *ethical*. The understanding of these concepts vary according to culture, country, organization or even between any two people.
 
 It is very difficult to determine for certain that an AI system is behaving fair and ethical because there are no universal, measurable measures for *fairness* or *ethical*.
 
@@ -232,8 +247,8 @@ The objective, that the AI system is designed to achieve may not be disclosed to
 
 ------
 
-- Example: Meta's business model relies on traffic on Facebook, driving advertisement revenue. The search and selection algorithms are designed to grow traffic. The way to do that may be to prioritize news and posts that has emotional impact over objective truths. But the precise objective is not known outside Meta.
-- Example: The objective of chatbots, that are deployed on a company's support pages may be to offer self-help service advice, but may also have an element of promoting the next generation product or add-ons for additional sales. This balance is not disclosed outside the company. The result may be unfair bias in the advice presented to the user.
+- Example: Meta's business model relies on traffic on Facebook and Instagram, driving advertisement revenue. The search and selection algorithms are designed to grow traffic. The way to do that may be to prioritize news and posts that has emotional impact over objective truths. But the precise objective is not known outside Meta, we can only speculate if the algorithms support Meta's business objectives, or the common good for all humankind.
+- Example: The objective of chatbots, that are deployed on a company's support pages may be to offer self-help service advice, but may also have an element of promoting the next generation product or add-on's for additional sales. This  is objective not disclosed outside the company. The result may be unfair bias in the advice presented to the user.
 
 
 
@@ -244,7 +259,7 @@ Data used to train AI systems may be protected, and rightly so. It may contain v
 ------
 
 - Example: Health care systems that are fed with patient data and results in a diagnose diabetes and recommend a correct dose of insulin need to be trained with large volumes of historical patient records, insulin usage and treatment outcomes. This is very sensitive personal information and protected by a number of data privacy regulations. It is not possible for the system developers to disclose in detail all the training data they used in the development and quality assurance process. This is also true for the transaction data, that are later fed to the system and the recommendations made. 
-- Example: Military machines like self-guided missiles are often using reinforcement algorithms, that are trained in a high number of real or simulated situations. These situations are confidential to the military and cannot be exposed in public.
+- Example: Military machines like self-guided missiles are often using reinforcement algorithms, that are trained in a high number of real or simulated situations. These situations are confidential to the military and cannot be exposed in public. Wars are not fought and won in highly ethical ways, but these weapons may be used for other purposes as well.
 - Example: A company uses data about its customers that are GDPR protected and cannot be shared outside the company, and thus makes it impossible for any outside third party to validate that the company's AI engine is trained in fair and ethical ways.
 
 
@@ -267,11 +282,11 @@ There are no laws or regulations for AI usage in most juristictions around the w
 
 The **data** are often protected by regulations like EU/GDPR.
 
-Thee **AI Technology** is not.
+The **AI Technology** is not.
 
-Legal freameworks has been defined and are offered, but they are not transposed info in law and therefore not enforced.
+Legal frameworks has been defined and are offered, but they are not transposed info in law and therefore not enforced.
 
-One of the strongest coming is from the European Union, preparing a comprehensive AI regulation., the *AI Act*  This is still in the final works, and once approved still have to be embedded in the EU countries legislation.
+One of the strongest coming is from the European Union, preparing a comprehensive AI regulation., the [AI Act](https://www.europarl.europa.eu/news/en/headlines/society/20230601STO93804/eu-ai-act-first-regulation-on-artificial-intelligence)  As of July 2023, this is still in the final works, and once approved still have to be embedded in the EU countries legislation.
 
 And then there is the world outside EU, in particular USA and China - big users of the AI technology and mostly unregulated.
 
@@ -283,11 +298,11 @@ And then there is the world outside EU, in particular USA and China - big users 
 
 ## Corruption
 
-The perception of misuse of AI systems are not clearly defined, and there are no wide concensus. This make it hard to detect attempts of misuse, and then to prevent it.
+The perception of misuse of AI systems are not clearly defined, and there are no wide consensus. This make it hard to detect attempts of misuse, and then to prevent it.
 
 ------
 
-- Example: Transparency International defines it as *AI misuse of entrusted power for private gain*. Other oranizatiosn or individual companies may have a different definition.
+- Example: Transparency International defines it as *AI misuse of entrusted power for private gain*. Other oranizations or individual companies may have a different definition.
 
 
 
@@ -297,23 +312,20 @@ The AI technology and the tools to develop and deploy AI applications are alread
 
 The cost of development and operation is coming down. More and more IT people and team are enabled to work with AI technology.
 
-The consequence of this is, that we will see more and more AI applicatonos for more and more purposes. 
+The consequence of this is, that we will see more and more AI applications for more and more purposes. 
 
 # Transparency International
 
-TI has a growing focus on data protection and technology, and the dangers that corruption behavior jumps from the human to the machine world.
+TI has a growing focus on data protection and technology, and the dangers that corruption behaviour jumps from the human to the machine world.
 
-TI's posiotion is
+TI's position is
 
 - Algorithmic **transparency** - factors that influence a decision must be defined and visible to the peope affected.
-
 - Algorithmic **accountability** - those who employ the algorithm must be accountable for the outcome.
-
 - Algorithmic **auditability** - Access to ML systems and data must be available to independent auditors.
-
 - This must be **enforced** by regulation and judicial systems.
 
-- Free media, independent legal systems, regulation with audits and general awareness are needed also for managing the risks of digitalization.
+Free media, independent legal systems, regulation with audits and general awareness are needed also for managing the risks of digitalization.
 
 
 
@@ -343,7 +355,17 @@ The development, deployment and operational processes of automated systems need 
 - Capturing, rendering, reformatting and integration of operational data to be processed by artificial intelligence systems, e.g. job applications or scanning pictures.
 - Rules engines that transact the algorithm results, 
 
-Risc assessment can be extended with good procedures for for investigating and prevention of intended misuse like functional separation of development and quality assurance of systems in development, and securing audit trails from AI systems in operation with enhanced controls of the business processes using the systems.
+Risk assessment can be extended with good procedures for for investigating and prevention of intended misuse like functional separation of development and quality assurance of systems in development, and securing audit trails from AI systems in operation with enhanced controls of the business processes using the systems.
+
+
+
+# References
+
+[Algorithms in public administration](https://www.transparency.org/en/blog/algorithms-artificial-intelligence-public-administration-transparency-accountability): How do we ensure they serve the common good, not abuses of power? 
+Transparency International, October 2021
+
+[Bribes for bias](https://www.transparency.org/en/blog/bribes-for-bias-can-ai-be-corrupted): Can AI be corrupted?
+Transparency International, February 2023
 
 
 ###### Lars Wriedt, July 2023
