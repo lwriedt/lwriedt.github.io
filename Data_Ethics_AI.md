@@ -1,3 +1,40 @@
+# Introdution
+
+Artificial Intelligence (AI) is unconscious and has no will or desires. AI does not decide or act *by itself*. Like all tedhnologies it is a collection of inactive code and/or materials - dead on arrival.
+
+We - humans - bring technology to life. We decide what it should do. We develop and deploy it and we use the technology for our purpose and to our benefit. Even autonomous machines built with artificial intelligence like cars, drones or medical devices works to serve a purpose, we, not them, have decided.
+
+AI ranges between the most powerful technologies like nuclear power, smart phones or the internet. AI is powerful due to its versatility, general usefulness, scalability and because of that it's cost-effectiveness.
+
+AI is already in our daily lives. The capabilities and proliferation grows fast. All the conditions for the "big AI bang", we are in the midst of, are there: algorithms, tools, IT infrastructure and vast data volumes.
+
+Like all powerful technologies, AI can be used for good or be harmful. The results depends on the intentions of the people with the power of controlling AI. 
+
+'The time has come: AI technology needs to be controlled and misuse prevented.
+
+Transparency International focus on exploitation of power for unfair advantages and transparency for the people, who might be exploited.
+
+We do not judge how technology is used for legitimate pursuits of political or business objectives, e.g. build profits, lower costs or mitigate risks. As long as technology is applied in a fair and transparent way, we have no opinion about it, other than a general support of building a fair, transparent, just and sustainable world with equal opportunities for all human beings.
+
+We hold power to account, also AI based power. We are concerned if AI creates or scales risk of corruption.  Our definition of AI corruption is:
+
+***Abuse of AI systems by entrusted power holders for their private gain.***
+
+Transparency International are not the only one with these concerns. Legislation and regulation is partly there or underway in several jurisdictions. The AI industry forms policy groups or associations promoting best practice and voluntarily refrainment of the worst misuse. But legislation is slow and complex and free market forces has so far failed to provide the level playing field we need.
+
+Like for nuclear power, dangerous chemicals or military weapons we believe and support the emergence of acknowledged, effective and transparent rules for the benefit and safety of us all.
+
+## Recommendations
+
+For practitioners at this time, Transparency International recommends:
+
+- Understand *who is entrusted with power* to control or influence how AI works, and the *private gains* these powerful people can obtain
+- make a *risk assessment* through the lifecycle and supply chain of AI systems
+- implement *risk mitigation* based on distribution of power and check and balances
+- *comply* with current legislation and regulation for the relevant jurisdictions
+
+
+
 # Data Ethics and Artificial Intelligence
 
 Automated systems, that take decisions by themselves, are already everywhere around us.
@@ -33,7 +70,7 @@ In general, most cases building on consent from the data owner or subject is con
 
 - Example: Scanning electronic patient records (EPR) to determine if the right claims were made for insurance re-imbursement is considered ethical.
 
-
+If data is used in an ethically acceptable way, almost by definition, it is also not used in a corruptive way.
 
 ## Un-ethical data use
 
@@ -65,18 +102,22 @@ Use of data in spite of expressed user consent or accepted terms and conditions 
 
 
 
-### Misuse
+### Misuse for private gain
 
 When decision power is transferred from humans to systems, there is a motivation to also corrupt the machines and AI algorithms now in charge.
 
-Machines may be corrupted by intention to deliver unfair advantage or profits to those with power for their private gain.
+Machines may be corrupted by intention to deliver unfair advantage or profits to those with power for their private gain. Even if un-ethical use of data is not by default corrupt, *intended misuse for private gain* is.
 
 Examples are listed in the following.
 
 
+
+
 # Artificial Intelligence corruption
 
-*AI corruption is defined as the abuse of entrusted power for private gain.*
+Transparency International define AI corruption as:
+
+***Abuse of AI systems by (entrusted) power holders for their private gain.***
 
 Humans has shown again and again that they can and will corrupt each other. We now see, that humans also can and will corrupt systems and algorithms for private gain.
 
@@ -225,6 +266,8 @@ Loss of knowledge can also impact whistleblowing. If the systems are becoming so
 Power will concentrate to people with influence on AI training, IT development or access to data during operation, and move away from people in the business units, and specially the people impacted by the automated decisions.
 
 
+
+
 # Challenges
 
 There are several challenges to overcome before the risks above can be addressed.
@@ -327,19 +370,22 @@ TI's position is
 
 Free media, independent legal systems, regulation with audits and general awareness are needed also for managing the risks of digitalization.
 
+# Recommendations
+
+For practitioners at this time, Transparency International recommends:
+
+- Understand *who is entrusted with power* to control or influence how AI works, and the *private gains* these powerful people can obtain
+- make a *risk assessment* through the lifecycle and supply chain of AI systems
+- implement *risk mitigation* based on distribution of power and check and balances
+- *comply* with current legislation and regulation for the relevant jurisdictions
 
 
-## Regulation
 
-Transparency supports legislation and regulation for digitalization of machines and processes, and the use of data and algorithms.
+## Entrusted power
 
-------
+[ to be developed ]
 
-- We trace the EU AI Act and look forward to the finalizing the Act and the following transposition into EU countries.
-
-
-
-## TI proposes risk assessments
+## Risk assessments
 
 Before any misuse can be controlled and prevented, we recommend clarity of what to look for, and where.
 
@@ -356,6 +402,18 @@ The development, deployment and operational processes of automated systems need 
 - Rules engines that transact the algorithm results, 
 
 Risk assessment can be extended with good procedures for for investigating and prevention of intended misuse like functional separation of development and quality assurance of systems in development, and securing audit trails from AI systems in operation with enhanced controls of the business processes using the systems.
+
+## Risk mitigation
+
+[ to be developed ]
+
+## Regulation
+
+Transparency supports legislation and regulation for digitalization of machines and processes, and the use of data and algorithms.
+
+------
+
+- We trace the EU AI Act and look forward to the finalizing the Act and the following transposition into EU countries.
 
 
 
