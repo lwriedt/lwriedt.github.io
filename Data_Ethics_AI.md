@@ -419,11 +419,33 @@ Transparency supports legislation and regulation for digitalization of machines 
 
 # References
 
+## Transparency International 
+
+### Artificial Intelligence explained
+
+[Short popular explaination](https://lwriedt.github.io/AI_Definition) intended as a light introduction
+
+### Papers
+
 [Algorithms in public administration](https://www.transparency.org/en/blog/algorithms-artificial-intelligence-public-administration-transparency-accountability): How do we ensure they serve the common good, not abuses of power? 
 Transparency International, October 2021
 
 [Bribes for bias](https://www.transparency.org/en/blog/bribes-for-bias-can-ai-be-corrupted): Can AI be corrupted?
 Transparency International, February 2023
 
+### Articles
 
-###### Lars Wriedt, July 2023
+[What's Fake and Not Fake in Turkish Election](https://inkstickmedia.com/whats-fake-and-not-fake-in-turkeys-election/)?
+Article in Instick by Oya Özarslan and Lars Wriedt, May 2023
+
+## Selection of articles
+
+- [Strategies to Tackle AI Hacking - ITSecurityWire](https://itsecuritywire.com/featured/strategies-to-tackle-ai-hacking/)
+- [Hacking Poses Risks for Artificial Intelligence](https://cset.georgetown.edu/article/hacking-poses-risks-for-artificial-intelligence/)
+- [Artificial Intelligence Security Issues: AI Risks And Challenges …](https://dataconomy.com/2023/01/16/artificial-intelligence-security-issues/)
+- [The 15 Biggest Risks Of Artificial Intelligence - Forbes](https://www.forbes.com/sites/bernardmarr/2023/06/02/the-15-biggest-risks-of-artificial-intelligence/)
+- [Hacking AI - Center for Security and Emerging Technology](https://cset.georgetown.edu/publication/hacking-ai/)
+
+- [Artificial intelligence (AI) algorithms: a complete overview](https://www.tableau.com/data-insights/ai/algorithms)
+
+###### *Lars Wriedt*, August 2023

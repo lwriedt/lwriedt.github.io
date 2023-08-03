@@ -1,7 +1,7 @@
 
 # My articles
 
-Data Ethics and AI corruption [ Data Ethics ](https://lwriedt.github.io/Data_Ethics_AI) (June 2023)
+Data Ethics and AI corruption [ Data Ethics ](https://lwriedt.github.io/Data_Ethics_AI) (August 2023)
 
 What is Artificial Intelligence? [Artificial Intelligence](https://lwriedt.github.io/AI_Definition) (May 2023)
 
@@ -39,5 +39,5 @@ What is the part of humans in Artificial Intelligence? [Human factor](https://lw
 
 # About me
 
-(C) [Lars Wriedt](https://lwriedt.github.io/aboutme), July 2023
+(C) [Lars Wriedt](https://lwriedt.github.io/aboutme), August 2023
 
